@@ -11,27 +11,27 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "https://i.imgur.com/BVLUrXJ.jpeg";
+  r_text[0] = "https://i.imgur.com/ztqsuL3.jpeg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Shadow-sir_v2*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*FAROOKSER*
  
 
-        *Github link        _https://github.com/Shadow-Sir-V1/Shadow-sir_V2*
+        *Github link        _https://github.com/farookser-v1/ammu-mol*
  
-       *Bot Making Video    _https://youtu.be/fCKFDo9tiQ0_*
+       *Bot Making Video    _https://youtu.be/WrwRWAdw_hY_*
 
-       *Audio commads-1     _https://github.com/Shadow-Sir-V1/Shadow-sir_V2/tree/master/upload_*
+       *Audio commads-1     _https://github.com/farookser-v1/ammu-mol/tree/master/upload_*
  
 
-       *Audio commads-2     _https://github.com/Shadow-Sir-V1/Shadow-sir_V2/tree/master/uploads_*
+       *Audio commads-2     _https://github.com/farookser-v1/ammu-mol/tree/master/uploads_*
   
   
-      *Sticker commads      _https://github.com/Shadow-Sir-V1/Shadow-sir_V2/tree/master/stickers_*
+      *Sticker commads      _https://github.com/farookser-v1/ammu-mol/tree/master/stickers_*
 `}) 
 
 })); 
