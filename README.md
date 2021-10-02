@@ -1,21 +1,21 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Shadow-sir_v2+WA+Bot...;Created+by+Shadow...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ammu-mol+WA+Bot...;Created+by+farookser-v1...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/dKrkLLY/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="farookser-v1.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Shadow-sir_v2" src="https://img.shields.io/badge/-Shadow sir-red?&style=for-the-badge"></a>
+<a href="#"><img title="ammu-mol" src="https://img.shields.io/badge/-farookser-v1 sir-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="#"><img title="Shadow" src="https://img.shields.io/badge/Shadow-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="farookser-v1" src="https://img.shields.io/badge/farookser-v1-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Shadow-sir-v1">Shadow</a> to make it public
+Project created by <a href="https://github.com/farookser-v1">farookser-v1</a> to make it public
     <br>
        | © |
         Reserved |
@@ -25,18 +25,18 @@ Project created by <a href="https://github.com/Shadow-sir-v1">Shadow</a> to make
 ----
 
   <p align="center">
-  <a href="https://github.com/Shadow-sir-v1/Shadow-sir_v2 ">
-    <img src="https://img.shields.io/github/repo-size/Shadow-sir-v1/Shadow-sir_v2?color=red&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/farookser-v1 ">
+    <img src="https://img.shields.io/github/repo-size/farookser-v1?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/Shadow-sir-v1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Shadow-sir-v1?color=grey&style=plastic"></a>
-<a href="https://github.com/Shadow-sir-v1/Shadow-sir_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Shadow-sir-v1/Shadow-sir?color=grey&style=plastic"></a>
-<a href="https://github.com/Shadow-sir-v1/Shadow-sir_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Shadow-sir-v1/Shadow-sir_v2?color=grey&style=plastic"></a>
-<a href="https://github.com/Shadow-sir-v1/Shadow-sir_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Shadow-sir-v1/Shadow-sir_v2?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/farookser-v1/followers"><img title="Followers" src="https://img.shields.io/github/followers/farookser-v1?color=grey&style=plastic"></a>
+<a href="https://github.com/farookser-v1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farookser-v1/farookser-v1-sir?color=grey&style=plastic"></a>
+<a href="https://github.com/farookser-v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farookser-v1?color=grey&style=plastic"></a>
+<a href="https://github.com/farookser-v1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farookser-v1?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 
 ```
   
-Shadow-sir_v2 Userbot is Open Source software open to development. 
+ammu-mol Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -59,7 +59,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuserv2-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shadow-sir-v1/Shadow-sir_v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farookser-v1)
      </div>
 <br>
 <br >
@@ -73,8 +73,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Shadow-sir-v1/Shadow-sir_v2
-$ cd Shadow-sir_v2
+$ git clone https://github.com/farookser-v1
+$ cd ammu-mol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -83,8 +83,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Shadow-sir-v1/Shadow-sir_v2
-$ cd Shadow-sir_v2
+$ git clone https://github.com/farookser-v1
+$ cd ammu-mol
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -122,9 +122,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Shadow](https://github.com/Shadow-sir-v1.png?size=100)](https://github.com/Shadow-sir-v1)
+  [![farookser-v1](https://github.com/farookser-v1.png?size=100)](https://github.com/farookser-v1)
 
-[Shadow](https://github.com/Shadow-sir-v1)  
+[farookser-v1](https://github.com/farookser-v1)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
 
